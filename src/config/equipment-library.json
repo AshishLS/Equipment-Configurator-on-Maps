@@ -1,0 +1,18 @@
+[
+  {
+    "id": "slide_small",
+    "name": "Small Slide",
+    "width": 4,
+    "depth": 3,
+    "height": 5,
+    "color": "#FF5733"
+  },
+  {
+    "id": "wave_pool",
+    "name": "Wave Pool",
+    "width": 12,
+    "depth": 8,
+    "height": 1,
+    "color": "#3399FF"
+  }
+]
