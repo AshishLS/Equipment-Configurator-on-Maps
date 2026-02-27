@@ -48,6 +48,10 @@ src/
    npm run dev
    ```
 
+### Dependency Note
+
+- `mapbox-gl-draw` is pinned to `^1.4.3` because `^1.5.0` is not a published npm version.
+
 ## Export Schema
 
 ```json
